@@ -1,0 +1,50 @@
+Problem 1
+Test 1
+x = 011000111
+y = 111101101
+Quotient = 1
+Remainder = 1110101
+
+Test 2
+x = 10011000111
+y = 01101
+Quotient = 0100101
+Remainder = 1011
+
+Test 3
+x = 111000111000111000111
+y = 101010101010101
+Quotient = 1010101
+Remainder = 0111000100111
+
+Problem 2 
+Test 1
+x = 01
+y = 0101
+N = 00101
+Result = 001
+
+Test 2
+x = 1000110001
+y = 1011
+N = 0000110001
+Result = 1
+
+Test 3
+x = 1100110011001100110011001100110011
+y = 1100011
+N = 1110001110001110001110001110001111
+Result = 010010001110110110000111111100011
+
+Problem 3
+N	Runtime
+1	0.00299 Seconds
+2	0.006003 Seconds
+4	0.017002 Seconds
+8	0.051005 Seconds
+16	0.148549 Seconds
+32	0.720124 Seconds
+64	5.18961 Seconds
+128	62.299 Seconds or 1.038 Minutes
+256	364.248 Seconds or 6.07 Minutes
+512	2404.58 Seconds or 40.07 Minutes
